@@ -1,0 +1,6 @@
+{
+  "name": "FlagMaster",
+  "description": "Apprends et mémorise les drapeaux des 195 pays du monde avec un système de quiz progressif, 6 niveaux de difficulté et répétition espacée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
